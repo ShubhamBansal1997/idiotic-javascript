@@ -28,3 +28,4 @@ Some of the absurd Javascript results, found during work
 >>'number'
 >>NaN==NaN
 >>false
+```
