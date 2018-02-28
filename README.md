@@ -17,6 +17,7 @@ Some of the absurd Javascript results, found during work
 >>true
 >>test == !test
 >>true
+```
 
 ## Some Not Defined things
 ```
